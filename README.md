@@ -3,7 +3,7 @@ Diaz Azure Resume
 
     Command to pull down code from your gethub repository (after you've created your SSH key on your local terminal with ssh keygen):
 
-    git clone git@github.com
+    git clone git@github.com:**/****.git
 
     git@github.com:**/****.git is the identifier to the ssh key you generated. This link can be found in the green code button where it says clone > SSH
 
