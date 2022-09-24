@@ -20,3 +20,4 @@ Diaz Azure Resume
 -Front end folder contains the website
 
 -Main.js containts visitor counter code
+
